@@ -36,15 +36,15 @@
 | Distant Horizons | 1.18+ (forge, fabric) | hmm this mod can help see far but will decrease fps (he have update since but), it's depend if you want 16 chunks fully detailled or 8 and 128 chunk more | it's depend |
 | oculus | 1.18+ (forge) | this mod will decrease fps but enable shader so you can have both but it's depend of your computer and what you want | it's depend |
 | iris | 1.18+ (fabric) | this mod will decrease fps but enable shader so you can have both but it's depend of your computer and what you want | it's depend |
-| Chunky | 1.18+ | this will pre-generate chunk so can be useful when you want pre-generate chunk so when player go in less drop of tps possible (I advice to use it on server before starting with everyone) | yes |
-| ServerCore | 1.18+ | reduces lag spikes in different senario, have tool to reduce entity, lobotize villager, etc | yes |
-| Let Me Despawn | 1.18+ | reduce condition for a mod to despawn so when a modded creatur have tool or other it's despawn, it's avoid keeping a lot of modded mob (you can still use a name tad to avoid despawn) | yes |
-| Alternate Current | 1.18+ | reduce impact of redstone in tps | yes |
-| It Shall Not Tick/No see no tick (lastest) | 1.18+ | avoid some tick so better tps | yes |
-| Rubidium Extra/sodium extra | 1.18+ | show more option who can be use like a fps counter, Animations, Particles, Details, etc| yes |
-| AI Improvements | 1.18+ | optimise IA, another mod is also out made by potato_boy (Similar to AI Improvement, but is implemented by Mixin and has a better performance - potato_boy) | no (use Goal optimizer do the same thing) |
-| Goal Optimiser | 1.18+ | Allow you to configure the goals registry of Sheep, Pig, Cow, Fish, Chicken (Similar to AI Improvement, but is implemented by Mixin and has a better performance) and Do optimization to the Goal Selector (This is mainly more effective in 1.16.5, because in 1.18+ mojang optimize its ticking in the similar way) | yes |
-| Does Potato Tick? | 1.18+ | no tick something who are far to simplify | yes |
+| Chunky | 1.18+ (forge, fabric) | this will pre-generate chunk so can be useful when you want pre-generate chunk so when player go in less drop of tps possible (I advice to use it on server before starting with everyone) | yes |
+| ServerCore | 1.18+ (forge, fabric) | reduces lag spikes in different senario, have tool to reduce entity, lobotize villager, etc | yes |
+| Let Me Despawn | 1.18+ (forge, fabric) | reduce condition for a mod to despawn so when a modded creatur have tool or other it's despawn, it's avoid keeping a lot of modded mob (you can still use a name tad to avoid despawn) | yes |
+| Alternate Current | 1.18+ (forge, fabric) | reduce impact of redstone in tps | yes |
+| It Shall Not Tick/No see no tick (lastest) | 1.18+ (forge) | avoid some tick so better tps | yes |
+| Rubidium Extra/sodium extra | 1.18+ (forge, fabric) | show more option who can be use like a fps counter, Animations, Particles, Details, etc| yes |
+| AI Improvements | 1.18+ (forge) | optimise IA, another mod is also out made by potato_boy (Similar to AI Improvement, but is implemented by Mixin and has a better performance - potato_boy) | no (use Goal optimizer do the same thing) |
+| Goal Optimiser | 1.18+ (forge) | Allow you to configure the goals registry of Sheep, Pig, Cow, Fish, Chicken (Similar to AI Improvement, but is implemented by Mixin and has a better performance) and Do optimization to the Goal Selector (This is mainly more effective in 1.16.5, because in 1.18+ mojang optimize its ticking in the similar way) | yes |
+| Does Potato Tick? | 1.18+ (forge) | no tick something who are far to simplify | yes |
 
 
 ### other mod of opti |
